@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.AprendeApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#2457A7</item>
+        <item name="colorPrimaryVariant">#173B75</item>
+        <item name="colorSecondary">#13A89E</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#173B75</item>
+    </style>
+</resources>
